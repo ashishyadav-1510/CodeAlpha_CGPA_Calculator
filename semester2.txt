@@ -1,12 +1,12 @@
 ========= Semester 2 Report =========
 Student Name : Ashish Yadav
-Student ID   : 27AY58
+Student ID   : 24AY58
 -------------------------------------------------------------
 Subject Code     Subject Name     Marks   Credits   Grade   Grade Points
-M-3               Maths             99      5        A+      49.50
-G-34              Gk                87      2        A       17.40
+M-3               Maths             95      4        A+      38.00
+G-34              Gk                89      2        A       17.80
 ---------------------------------------------------------------------
-Semester GPA: 9.56
-Cumulative CGPA: 9.61
+Semester GPA: 9.30
+Cumulative CGPA: 9.53
 =====================================================================
 

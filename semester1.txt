@@ -1,12 +1,12 @@
 ========= Semester 1 Report =========
 Student Name : Ashish Yadav
-Student ID   : 27AY58
+Student ID   : 24AY58
 -------------------------------------------------------------
 Subject Code     Subject Name     Marks   Credits   Grade   Grade Points
 E-28              English           98      4        A+      39.20
-H-28              Hindi             95      3        A+      28.50
+H-28              Hindi             96      4        A+      38.40
 ---------------------------------------------------------------------
-Semester GPA: 9.67
-Cumulative CGPA: 9.67
+Semester GPA: 9.70
+Cumulative CGPA: 9.70
 =====================================================================
 
