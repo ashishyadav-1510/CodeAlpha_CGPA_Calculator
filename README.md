@@ -100,7 +100,7 @@ Cumulative CGPA: 8.50
 
 ## Video
 
-[Video on YouTube]()
+[Video on YouTube](https://youtu.be/AseFuejdxcg)
 
 ## Explaination:
 
